@@ -1,3 +1,3 @@
-# Day 1 of 100DaysOfCode - Simple Card
+# Simple Card
 
 A simple card made using HTML and CSS.
